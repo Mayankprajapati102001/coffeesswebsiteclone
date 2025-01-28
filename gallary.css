@@ -1,0 +1,92 @@
+/* nav bar style */
+.first-section {
+    background-color: chocolate;
+    position: ;
+}
+.navbar-nav {
+    margin-left: 50px;
+}
+
+.nav-item .nav-link {
+    color: black;
+    margin-left: 10px;
+    font-weight: bold;
+    transition: 0.5s;
+}
+
+.nav-item .nav-link:hover {
+    background: #f7f5f2;
+    border-radius: 5px;
+    color: black;
+}
+
+/* our gallary css */
+
+
+.Gallary{
+    background-color:  #f7f7f7;
+}
+
+.Our-gallary-heading{
+    text-align: center;
+    font-size: 70px;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+.span-gallary{
+    color: #b2744c;
+}
+
+
+/* footer css */
+
+.footer-cafe{
+    background-color: #f7f7f7;
+    padding-top: 54px;
+}
+.footer-logo{
+    background-color: #b2744c;
+}
+.footer-img{
+    text-align: center;
+    padding: 20px;
+    
+    
+}
+.footer-img img{
+border-radius: 20px;
+}
+.foot-icon {
+   text-align: center;
+}
+
+.foot-icon i {
+    font-size: 17px;
+    margin-left: 10px;
+    margin-top: 10px;
+    padding: 10px;
+    background: black;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.desing-bt{
+    text-decoration: none;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+.desing-bt a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+.copy-right{
+    text-align: center;
+    padding: 5px;
+}
+.copy-right a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
